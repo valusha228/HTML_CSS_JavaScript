@@ -18,8 +18,8 @@ body {
     background-color:darkmagenta;
 }
 
-.alert-text {
-    color: red;
+#alert-text {
+    color: rgb(189, 255, 6);
     text-align: center;
 }
 
@@ -32,10 +32,17 @@ p {
 }
 
 ul {
-    list-style-image:linear-gradient(to left bottom, white, purple);
-    background-image: linear-gradient(to right top, purple, white);
+    list-style-image:linear-gradient(to left bottom, white, gray);
+    font-size: 20px;
 }
 
-li {
-    background-image: linear-gradient(to right top,purple, white);
+.meme {
+    background-color: rgba(255, 7, 135, 0.73);
+    text-align: center;
 }
+
+#Jesus-title {
+    text-align: center;
+    font-weight: bold;
+}
+
