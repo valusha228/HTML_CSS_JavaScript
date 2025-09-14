@@ -1,0 +1,41 @@
+#welcome-text {
+    text-align: center;
+    color:darkmagenta;
+    background-color: yellow;
+}
+
+#porno {
+    text-align: center;
+    background-color: lightskyblue;
+}
+
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+* {
+    line-height: 1.5;
+    background-color:darkmagenta;
+}
+
+.alert-text {
+    color: red;
+    text-align: center;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow',
+    Arial, sans-serif;
+    font-size: 30px;
+    font-variant: small-caps;
+    font-style: oblique;
+}
+
+ul {
+    list-style-image:linear-gradient(to left bottom, white, purple);
+    background-image: linear-gradient(to right top, purple, white);
+}
+
+li {
+    background-image: linear-gradient(to right top,purple, white);
+}
