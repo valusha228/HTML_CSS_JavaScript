@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    outline: 2px solid black;
 }
 
 body {
@@ -81,13 +82,15 @@ header nav ul li.btn a:hover {
 .hero--info {
     width: 530px;
     padding-top: 70px;
-    padding-left: 500px;
+    padding-left: 50px;
 
 }
 
 .hero--info h1 {
     font-size: 50px;
     font-weight: 600;
+    outline: 5px solid black;
+    margin: 10px 0;
 }
 
 .hero--info p {
